@@ -1,6 +1,6 @@
 # Module 1.1 Assignment
 
-For a majority of your assignments you will create issues on GitHub.
+ For a majority of your assignments you will create issues on GitHub.
 
 In order to create an issue you will travel to the tab marked as `Issues`:
 
